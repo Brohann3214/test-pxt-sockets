@@ -1,6 +1,6 @@
 game.consoleOverlay.setVisible(true)
 control.runInParallel(function () {
-    console.log(`connecting to websocket wss://socketsbay.com/wss/v2/1/demo/`)
+    console.log(`connecting 2 websocket wss://socketsbay.com/wss/v2/1/demo/`)
 
     {
         // string tests
